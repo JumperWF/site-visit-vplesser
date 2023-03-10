@@ -9,7 +9,7 @@ const AppRouter = () => (
     <Router>
       <div>
         <Routes>
-          <Route exact path="/site-visit-vplesser" element={<MainPage />} />
+          <Route exact path="/site-visit-vplesser" component={<MainPage />} />
           <Route path="/site-visit-vplesser/smi" element={<SMI />} />
         </Routes>
       </div>
