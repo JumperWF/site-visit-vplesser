@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Switch, Route } from 'react-router-dom';
 import MainPage from './pages/main';
 import SMI from './pages/smi';
 
@@ -9,8 +9,8 @@ const AppRouter = () => (
     <Router>
       <div>
         <Routes>
-          <Route exact path="/site-visit-vplesser" component={<MainPage />} />
-          <Route path="/site-visit-vplesser/smi" element={<SMI />} />
+          <Route exact path="/" element={<MainPage />} />
+          <Route path="/smi" element={<SMI />} />
         </Routes>
       </div>
     </Router>
