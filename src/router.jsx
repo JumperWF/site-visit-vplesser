@@ -9,8 +9,8 @@ const AppRouter = () => (
     <Router>
       <div>
         <Routes>
-          <Route exact path="/" element={<MainPage />} />
-          <Route path="/smi" element={<SMI />} />
+          <Route exact path="/site-visit-vplesser" element={<MainPage />} />
+          <Route path="/site-visit-vplesser/smi" element={<SMI />} />
         </Routes>
       </div>
     </Router>
