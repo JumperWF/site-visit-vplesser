@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jumperwf.github.io/site-visit-vplesser/static/css/main.2176eba2.css",
+    "main.js": "/jumperwf.github.io/site-visit-vplesser/static/js/main.8b90f038.js",
+    "static/media/divider.png": "/jumperwf.github.io/site-visit-vplesser/static/media/divider.70ade02e16d577ef62ad.png",
+    "static/media/avatar.jpg": "/jumperwf.github.io/site-visit-vplesser/static/media/avatar.47f7a9d80da14c4ec098.jpg",
+    "index.html": "/jumperwf.github.io/site-visit-vplesser/index.html",
+    "main.2176eba2.css.map": "/jumperwf.github.io/site-visit-vplesser/static/css/main.2176eba2.css.map",
+    "main.8b90f038.js.map": "/jumperwf.github.io/site-visit-vplesser/static/js/main.8b90f038.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2176eba2.css",
+    "static/js/main.8b90f038.js"
+  ]
+}
