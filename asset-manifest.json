@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/site-visit-vplesser/static/css/main.a8ccbce2.css",
+    "main.js": "/site-visit-vplesser/static/js/main.e060e91d.js",
+    "static/media/divider.png": "/site-visit-vplesser/static/media/divider.c9e5682c91b4280eff07.png",
+    "static/media/avatar.jpg": "/site-visit-vplesser/static/media/avatar.47f7a9d80da14c4ec098.jpg",
+    "index.html": "/site-visit-vplesser/index.html",
+    "main.a8ccbce2.css.map": "/site-visit-vplesser/static/css/main.a8ccbce2.css.map",
+    "main.e060e91d.js.map": "/site-visit-vplesser/static/js/main.e060e91d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8ccbce2.css",
+    "static/js/main.e060e91d.js"
+  ]
+}
